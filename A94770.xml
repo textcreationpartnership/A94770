@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ode upon His Majesty's birth-day, set to musick by Dr. Staggins ; and perform'd before Their Majesties, November the 4th, 1693. ; The words by N. Tate, servant to Their Majesties.</title>
+            <author>Tate, Nahum, 1652-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94770</idno>
+            <idno type="STC">Wing T197aA</idno>
+            <idno type="STC">ESTC R184875</idno>
+            <idno type="EEBO-CITATION">43077667</idno>
+            <idno type="OCLC">ocm 43077667</idno>
+            <idno type="VID">151778</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151778)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2276:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ode upon His Majesty's birth-day, set to musick by Dr. Staggins ; and perform'd before Their Majesties, November the 4th, 1693. ; The words by N. Tate, servant to Their Majesties.</title>
+                  <author>Tate, Nahum, 1652-1715.</author>
+                  <author>Staggins, Nicholas, 1650?-1700.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin, near the Oxford-Arms in Warwick-Lane.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XC III [1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151778:1" rendition="simple:additions"/>
+            <head>AN ODE UPON HIS Majeſty's Birth-Day, Set to Muſick by Dr. <hi>Staggins;</hi> and Perform'd before Their MAJESTIES, November the 4th. 1693.</head>
+            <byline>The Words by <hi>N. Tate,</hi> Servant to Their Majeſties.</byline>
+            <lg>
+               <l>SOund a Call, the <hi>Tritons</hi> ſing,</l>
+               <l>Summon'd by their Vocal Shells,</l>
+               <l>From Coral Beds and Chryſtal Cells,</l>
+               <l>Up the joyful <hi>Nereids</hi> ſpring;</l>
+               <l>Sound a Call the <hi>Tritons</hi> ſing.</l>
+            </lg>
+            <lg>
+               <l>What makes <hi>Neptune</hi>'s Court appear,</l>
+               <l>Circled on a dancing Wave?</l>
+               <l>The Day's arriv'd, 'tis come, 'tis here,</l>
+               <l>That Birth to <hi>CAESAR,</hi> Joy to <hi>Europe</hi> gave.</l>
+               <l>See the Sacred Quire deſcending,</l>
+               <l>Earth and Sea your Song attending;</l>
+               <l>Crown the Day that Crowns the Year.</l>
+            </lg>
+            <lg>
+               <l>'Twas NOW, the threatning Tempeſt paſt,</l>
+               <l>We ſaw his Welcome Anchors caſt,</l>
+               <l>Flags diſplay'd, and Streamers free</l>
+               <l>As what they brought us, Liberty.</l>
+               <l>Liberty the Sailors cry'd,</l>
+               <l>Liberty the Shores reply'd.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:151778:2" rendition="simple:additions"/>
+               <l>Succeſſor of Great <hi>Hercules,</hi>
+               </l>
+               <l>When will thy Labours, when thy Dangers ceaſe?</l>
+               <l>Thy Courage and thy Toils</l>
+               <l>Have long deſerv'd <hi>Nemaean</hi> Spoils.</l>
+               <l>Why are Thy Triumphs then retarded?</l>
+               <l>Why ſuch Virtue Unrewarded?</l>
+            </lg>
+            <lg>
+               <head>Chor.</head>
+               <l> The Promis'd Bleſſing's but Delay'd,</l>
+               <l>With greater Intereſt to be Paid.</l>
+               <l>Mighty Births, in Teeming longeſt,</l>
+               <l>Make amends for their Delay:</l>
+               <l>Shades of Night are ever ſtrongeſt,</l>
+               <l>Juſt before the Break of Day.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Gallick</hi> Force in vain is ſtriving,</l>
+               <l>
+                  <hi>Gallick</hi> Fraud in vain contriving,</l>
+               <l>Hope and <hi>CAESAR</hi> ſtill ſurviving.</l>
+               <l>Drooping <hi>Europe</hi>'s State to Raiſe,</l>
+               <l>And yet aſſure Succeſsful Days,</l>
+               <l>Undaunted <hi>CAESAR</hi> Fights, Devout <hi>MARIA</hi> Prays.</l>
+            </lg>
+            <lg>
+               <head>CHORUS.</head>
+               <l>
+                  <hi>'Twas Conſtancy could only prove</hi>
+               </l>
+               <l>Alcides <hi>the true Son of</hi> Jove;</l>
+               <l>
+                  <hi>Heads of</hi> Hydra <hi>ſtill Renewing,</hi>
+               </l>
+               <l>
+                  <hi>And the Hero ſtill Subduing;</hi>
+               </l>
+               <l>
+                  <hi>Till with Unwearied Valour preſt,</hi>
+               </l>
+               <l>
+                  <hi>At laſt the Monſter fell, the World at laſt had Reſt.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> MDCXCIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
